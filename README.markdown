@@ -1,3 +1,8 @@
+Fork of Massive with support for SQL Azure and Transient Fault Handling.
+
+Requires the following nuget package:
+- EnterpriseLibrary.WindowsAzure.TransientFaultHandling
+
 Massive is a Single File Database Lover. It's Better Than Chocolate. No Really.
 ===============================================================================
 
